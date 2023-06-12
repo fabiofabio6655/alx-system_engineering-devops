@@ -1,0 +1,2 @@
+#!/bin/bash
+find . _minedpth 1 -type d | wc -1
